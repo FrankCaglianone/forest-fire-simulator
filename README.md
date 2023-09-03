@@ -14,9 +14,13 @@ The code is developed based on the 6 main fire spreading factors in real life:
     - Stand, medium flammability, 26%-50%
     - Woodland, low flammability, 1%-25%
 
+
+
 From those factors than we calculate the:
 * Spreading Time: temperature * wind / rain / humidity
 * Burning Time: 1 / tree flammability
+
+
 
 ## To run the code
 Step 1. Copy the python code from forest_fire.py
