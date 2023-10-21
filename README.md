@@ -27,3 +27,8 @@ From those factors than we calculate the:
 2. Make an account on [Neptyne.com](https://www.neptyne.com/)
 3. Make a new file and paste the code into the code panel in the neptyne simulator
 4. Run the code
+
+
+## License
+[MIT License](LICENSE)
+
